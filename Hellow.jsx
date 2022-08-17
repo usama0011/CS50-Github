@@ -3,9 +3,9 @@ import React from 'react'
 const Hellow = () => {
     return (
         <>
-            <div>Hellow World this is the Fires Introduction of github and first command is git Clone chang same line of codes</div>
+            <div style={{ backgroundColor: 'orange' }}>Hellow World this is the Fires Introduction of github and first command is git Clone</div>
             <div> Add anohter div just say Hellow</div>
-            <span>Lets Figure out what the commit is Changing for us</span>
+            <span>Hellow I add a little span above the  code and fix the Result</span>
         </>
     )
 }
